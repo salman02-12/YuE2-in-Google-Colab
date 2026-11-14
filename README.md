@@ -7,7 +7,7 @@ This repository provides an easy-to-use Google Colab notebook to run **YuE2**, a
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/15xKI5kv6BpiB4aTx7zjzgI0rZugY2qpM?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/YuE2-in-Google-Colab/blob/main/YuE2_CoinNoin.ipynb)
-[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/soon)
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/9592PQ88FJDJC)
 
 ---
 <img src="./thumbnail.png" width="100%" />
