@@ -2,7 +2,7 @@
 
 This repository provides an easy-to-use Google Colab notebook to run **YuE2**, an advanced AI music generation model. Built on ComfyUI, this tool allows you to create complete songs with vocals from scratch (Text-to-Music) or generate customized covers of existing songs (Music Cover), all running locally on a free Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=8zUtBY2c-Gc)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/15xKI5kv6BpiB4aTx7zjzgI0rZugY2qpM?usp=sharing)
 
